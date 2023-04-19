@@ -17,7 +17,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](images/linear.PNG)
+![](imagens/linear.PNG)
 
 
 ## My process
